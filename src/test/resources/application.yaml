@@ -1,0 +1,7 @@
+logging:
+  level:
+    ru.afanasyev.visualizer: debug
+
+bean:
+  visualizer:
+    web-path: /beans
